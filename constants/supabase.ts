@@ -1,0 +1,3 @@
+export const supaUrl = 'https://vuxeqiayaxtodkyhbfhp.supabase.co';
+
+export const anonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ1eGVxaWF5YXh0b2RreWhiZmhwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzUxNjE5NDIsImV4cCI6MjA1MDczNzk0Mn0.vMySGXYupkPjhOhb5n08qR_F4xv6fqd1LC8KASsBNJ8'
