@@ -41,7 +41,7 @@ export default function Signup() {
     }
 
     setLoading(false);
-    router.replace("/");
+    router.replace("/(auth)/signin/page");
   }
 
   return (
